@@ -1,0 +1,27 @@
+#week5-1_hw table{
+    margin : auto;
+}
+
+#week5-1_hw td {
+    height:100px;
+    width: 100px;
+}
+
+#week5-1_hw td:hover{
+    border:1px solid gray;
+}
+
+
+#week5-1_hw .horizontal{
+    border-top: 1px solid gray;
+    border-bottom:1px solid gray;
+}
+
+#week5-1_hw .vertical{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+#week5-1_hw h1{
+    text-align:center;
+}

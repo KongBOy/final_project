@@ -1,0 +1,14 @@
+#bomber_game {
+    text-align:center;
+    border: 10px solid maroon;
+    width: 350px;
+}
+
+#bomber_game input {
+    margin:10px;
+}
+
+#bomber_game #bombs img{
+    width: 25px;
+}
+

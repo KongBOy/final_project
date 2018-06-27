@@ -1,0 +1,17 @@
+#week5-2_hw img{
+    width:30%;
+    margin: 1.66%;
+    float: left;
+    
+}
+
+#week5-2_hw p{
+    font-family : Raleway;
+    font-size : 23px;
+    font-weight : 600;
+    text-transform: uppercase;
+    padding-bottom : 20px;
+    border-bottom : 2px solid #f1f1f1;
+    width : 30%;
+    margin-left : 1.66%;
+}
